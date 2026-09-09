@@ -1,0 +1,16 @@
+{
+  "normal_signal": {
+    "authentication": 0.05,
+    "traffic": 0.1,
+    "integrity": 0.05,
+    "session": 0.05,
+    "policy": 0.0
+  },
+  "suspicious_signal": {
+    "authentication": 0.9,
+    "traffic": 0.9,
+    "integrity": 0.9,
+    "session": 0.8,
+    "policy": 0.9
+  }
+}
